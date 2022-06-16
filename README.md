@@ -1,1 +1,1 @@
-<div align="center"><img src="https://github.com/kirillusgudkov/informatics1/nX.gif"/></div>
+<div align="center"><img src="https://github.com/kirillusgudkov/informatics2/nX.gif"/></div>
